@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MOchiGameB.data.unityweb",
+"asmCodeUrl": "MOchiGameB.asm.code.unityweb",
+"asmMemoryUrl": "MOchiGameB.asm.memory.unityweb",
+"asmFrameworkUrl": "MOchiGameB.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
